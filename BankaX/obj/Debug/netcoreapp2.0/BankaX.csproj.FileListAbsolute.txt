@@ -1,0 +1,11 @@
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\bin\Debug\netcoreapp2.0\BankaX.deps.json
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\bin\Debug\netcoreapp2.0\BankaX.runtimeconfig.json
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\bin\Debug\netcoreapp2.0\BankaX.runtimeconfig.dev.json
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\bin\Debug\netcoreapp2.0\BankaX.dll
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\bin\Debug\netcoreapp2.0\BankaX.pdb
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.csprojResolveAssemblyReference.cache
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.csproj.CoreCompileInputs.cache
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.AssemblyInfoInputs.cache
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.AssemblyInfo.cs
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.dll
+C:\Users\HajdiDj\source\repos\BankaX\BankaX\obj\Debug\netcoreapp2.0\BankaX.pdb
